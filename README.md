@@ -24,4 +24,5 @@ Visualizations:
 Bar charts, pie charts, and trendlines for quick insights.
 Casualties categorized by road surface, light conditions, and vehicle type.
 
+1. Analyze and compare the total casualties between the current year and the previous year to observe trends and fluctuations.
 
