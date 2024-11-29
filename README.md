@@ -2,10 +2,10 @@
 
  ![Road accident dashboard ](https://github.com/user-attachments/assets/c89b2a91-4594-4c3b-ae4d-1546929a0ce5)
 
- Road Accident Dashboard
+# Road Accident Dashboard
 An interactive Excel-based dashboard analyzing road accident statistics, designed to provide valuable insights into accident trends, causes, and impacts. This dashboard leverages pivot tables and visualizations to present complex data in a clear and concise manner.
 
-Key Features
+## Key Features
 Key Performance Indicators (KPIs):
 
 Total Casualties: 417,883
