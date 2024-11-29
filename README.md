@@ -9,7 +9,7 @@ An interactive Excel-based dashboard analyzing road accident statistics, designe
 1. Analyze and compare the total casualties between the current year and the previous year to observe trends and fluctuations.
 2. Evaluate total casualties based on accident severity (fatal, serious, slight) and determine the percentage of total casualties for each category. Identify the vehicle type contributing to the maximum casualties to prioritize targeted interventions.
 3. Stakeholders - Ministry of Transportation, Police Force, Traffic management Agencies, Public, Media.
-4. ## Dataset Overview ** : 
+ ### Dataset Overview ###
 Size: 3.07 million rows and 21 columns.
 Content: Comprehensive road accident data encompassing various parameters like accident severity, vehicle type, road type, light conditions, and more.
 
